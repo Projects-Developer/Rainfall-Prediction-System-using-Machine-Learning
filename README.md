@@ -1,4 +1,4 @@
-# Rainfall-Prediction-System-using-Machine-Learning-
+# Rainfall-Prediction-System-using-Machine-Learning
 Rainfall Prediction System using Machine Learning Code, Document And Vidoe Tutorial
 
 ![Rainfall ](https://github.com/user-attachments/assets/46bf1b0c-8372-4bda-9870-6bc5aea6ecb3)
