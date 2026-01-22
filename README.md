@@ -18,7 +18,6 @@ Keywords: Rainfall Prediction, Machine Learning, Weather Forecasting, Climate Mo
 
 3. Research Paper
 
-
 4. Code
 
 5. Explanation video
@@ -38,8 +37,6 @@ Keywords: Rainfall Prediction, Machine Learning, Weather Forecasting, Climate Mo
 
 ### Website : https://www.finalproject.in/
 
-### Contact me for any kind of help on projects.
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
+### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
 
 Mail/Message me for Projects Help 🙏🏻
